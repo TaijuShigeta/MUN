@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MUN</string>
+    <string name="title_home">ホーム</string>
+    <string name="title_search">検索</string>
+    <string name="title_message">メッセージ</string>
+    <string name="title_bookmark">ブックマーク</string>
+    <string name="title_store">好きなお店</string>
+    <string name="title_title">素敵な人生を過ごせています</string>
+</resources>
